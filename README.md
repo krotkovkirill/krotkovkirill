@@ -4,6 +4,7 @@
 
 ## My Stack
 
+![Баннер](banner-v2.png)
 [![Python](https://img.shields.io/badge/Python-991B1B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-991B1B?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-991B1B?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
