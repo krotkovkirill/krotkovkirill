@@ -1,16 +1,13 @@
-## Hi there 👋
+# Python Developer / ML Engineer
 
-<!--
-**krotkovkirill/krotkovkirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю машинное обучение и создаю учебные проекты на Python.
 
-Here are some ideas to get you started:
+## My Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Python](https://img.shields.io/badge/Python-991B1B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-991B1B?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-991B1B?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-991B1B?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-991B1B?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/SQL-991B1B?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/tutorial-sql.html)
