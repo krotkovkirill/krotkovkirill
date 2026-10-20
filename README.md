@@ -1,8 +1,9 @@
 
 ![Python Developer / ML Engineer](banner-forest.png)
 
-Studying machine learning and building Python projects.
-
+<p align="center">
+  <em>Studying machine learning and building Python projects.</em>
+</p>
 ## My Stack
 [![Python](https://img.shields.io/badge/Python-991B1B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-991B1B?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
